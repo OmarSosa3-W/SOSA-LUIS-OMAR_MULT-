@@ -17,4 +17,6 @@ multiplicacion = n1 * n2 * n3#la multipicacion sera segun la operacion
 
 print("el resultado de la multiplicacion es:" ,multiplicacion)#muestra el resultado en pantalla
 
+
+![image](https://github.com/user-attachments/assets/0ed042af-e308-43ef-b32a-d83b22f6bb69)
 ![image](https://github.com/user-attachments/assets/25277645-d15e-4c98-9c00-18245c4fcd8c)
